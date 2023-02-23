@@ -1,0 +1,20 @@
+html, body {
+  margin: 300;
+  padding: 0;
+  overflow:hidden;
+}
+.pb{
+   background-color: aquamarine;
+   width:150px;height:50px;
+   border-radius:25px
+}
+.ti{
+  width: 80%;
+  height:150px;
+}
+.ip{
+  width:180px;height:50px;
+  font-size:32px; 
+  padding:15px;
+
+}
